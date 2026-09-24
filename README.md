@@ -56,13 +56,9 @@ Minhas principais paixões na tecnologia são **código limpo, performance de ba
 ---
 
 ## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rma9898&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estatísticas do Rian" />
-</p>
-
-<p align="center">
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rma9898&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens mais usadas" />](https://github-readme-stats.vercel.app/api/top-langs/?username=rma9898&layout=compact&theme=tokyonight&langs_count=7)
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rma9898&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rma9898&layout=compact&theme=tokyonight" />
 </p>
 ---
 
