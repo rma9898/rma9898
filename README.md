@@ -62,7 +62,7 @@ Minhas principais paixões na tecnologia são **código limpo, performance de ba
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rma9898&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens mais usadas" />
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rma9898&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens mais usadas" />](https://github-readme-stats.vercel.app/api/top-langs/?username=rma9898&layout=compact&theme=tokyonight&langs_count=7)
 </p>
 ---
 
