@@ -3,7 +3,7 @@
 🚀 **Estudante de Sistemas de Informação & Desenvolvedor Back-End**  
 🇧🇷 Brasil (Uberlândia, MG)
 
-Sou graduando em **Sistemas de Informação** na Universidade Federal de Uberlândia (UFU). Sou focado em **desenvolvimento back-end**, **criação de APIs** e **arquitetura de sistemas**.  
+Sou graduando em **Sistemas de Informação** na Universidade Federal de Uberlândia (UFU). Sou Focado em **desenvolvimento back-end**, **criação de APIs** e **arquitetura de sistemas**.  
 Minhas principais paixões na tecnologia são **código limpo, performance de bancos de dados, regras de negócio sólidas e boas práticas de engenharia de software**.
 
 ---
