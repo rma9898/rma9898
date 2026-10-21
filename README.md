@@ -10,11 +10,15 @@ Minhas principais paixões na tecnologia são **código limpo, performance de ba
 
 ## 🌐 Onde me encontrar
 
-<p align="left">
-  <a href="https://github.com/rma9898/rma9898.git">
-    <img src="https://img.shields.io/badge/GitHub-riancarloslima-181717?style=for-the-badge&logo=github" />
-  </a>
+## 🌐 Onde me encontrar
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/rian-carlos-oliveria-lima-428356292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rma9898">
+    <img src="https://img.shields.io/badge/GitHub-rma9898-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
 </p>
 
 ---
